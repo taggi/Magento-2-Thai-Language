@@ -1,0 +1,24 @@
+{
+  "name": "easycommerce/magento-2-thai-language-pack",
+  "description": "Thai language package for Magento 2",
+  "homepage": "https://www.easycommerce.online",
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Easycommerce team",
+      "email": "wutdev@easycommerce.online",
+      "homepage": "https://www.easycommerce.online",
+      "role": "Dev"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
